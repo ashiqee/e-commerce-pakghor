@@ -5,7 +5,7 @@ import { FaXTwitter } from "react-icons/fa6";
 
 // import {SearchIcon} from "./SearchIcon";
 const CustomMsg = () => {
-  return <div className="border-8 w-56 border-gray-500" >
+  return <div className="border-8 w-full md:w-56 border-gray-500" >
     <div className="p-6 ">
 <h3 className="text-xl text-gray-600 font-semibold">
 GET 10% OFF
